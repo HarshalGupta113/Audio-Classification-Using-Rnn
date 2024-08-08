@@ -9,4 +9,9 @@ This project involves building a machine learning model to classify urban sound 
 ## Dataset
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/chrisfilo/urbansound8k).
 
+## How to Run
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the Jupyter notebook to preprocess data, train the model, and evaluate its performance.
+
 Libraries: `librosa`, `pandas`, `numpy`, `scikit-learn`, `tensorflow/keras`
